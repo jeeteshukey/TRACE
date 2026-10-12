@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Getting Started
 
 See [START_HERE.md](START_HERE.md) for installation
@@ -137,3 +138,7 @@ Big-O results remain static heuristic estimates rather than formal proofs. Compl
 - Adds compile-and-run instrumentation regression cases for nested loops/branches, early returns, thrown exceptions, catch blocks, and finally blocks.
 - Displays input-sensitive case notes and memory-pattern flags in the complexity panel.
 - The regression suite is designed to catch these cases; it does not turn the heuristic analyzer into a complete Java parser or formal Big-O proof.
+=======
+# TRACE
+TRACE is a Java-based Visual Program Execution Profiler that analyzes code execution, measures line-level time and memory usage, and estimates time and space complexity using static analysis and runtime profiling.
+>>>>>>> 16137dc75727d2e224f34a665ddeea7c1e1e936b
